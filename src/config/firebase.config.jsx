@@ -5,12 +5,12 @@ import { getAuth, GoogleAuthProvider } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 // https://firebase.goo
-// gle.com/docs/web/setup#available-libraries
+// gle.com/docs/web/setup#available-   libraries
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
   apiKey: "AIzaSyAv9myHktw7n4L2mqsx-_32XBF8Wv2Ff28",
-  authDomain: "expense-tracker-996f2.firebaseapp.com",
+  authDomain: "expense-tracker-996f2.firebaseapp.com",     
   projectId: "expense-tracker-996f2",
   storageBucket: "expense-tracker-996f2.firebasestorage.app",
   messagingSenderId: "334908573261",
